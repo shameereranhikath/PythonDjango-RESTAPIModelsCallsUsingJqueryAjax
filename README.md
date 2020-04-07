@@ -29,7 +29,7 @@ for this project django rest framework is needed.
  Ajax.The script file(script.js) is located on the assets folder of the project.
  
  
- The data is loaded in the HTML table with Bootstrap class.
+ The data is loaded in the HTML table 
  
  
  
